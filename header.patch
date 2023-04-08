@@ -1,0 +1,11 @@
+diff --git a/header.txt b/header.txt
+index ca29ceb..53bd143 100644
+--- a/header.txt
++++ b/header.txt
+@@ -2 +2,2 @@
+-This first line has been removed.
++This first line has been added.
++This second line has been added.
+@@ -4 +5 @@
+-This second line has been removed.
++This third line has been added.

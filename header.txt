@@ -1,0 +1,4 @@
+This is the original file.
+This first line has been removed.
+This line remains unchanged.
+This second line has been removed.
